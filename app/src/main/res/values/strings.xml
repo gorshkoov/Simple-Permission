@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Simple Permission</string>
+
+    <string name="action_request">Request</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="msg_granted">Cool, thanks for permission</string>
+    <string name="msg_rationale">We really need your Camera permission.\nClick on Request button to get in again</string>
+    <string name="msg_denied">Okay, just open Settings screen for continuation.</string>
+</resources>
